@@ -37,6 +37,7 @@ client.login('TOKEN');
 <h3 align='center'>Links:</h3>
 <p align='center'>&#8226; NPMjs: https://npmjs.com/package/discord-buttons</p>
 <p align='center'>&#8226; Documentation: https://angelocore.gitbook.io/discord-buttons/</p>
+<p align='center'>&#8226; Repository: https://github.com/AngeloCore/discord-buttons</p>
 <h3 align='center'>Example: </h2>
 
 ```js
