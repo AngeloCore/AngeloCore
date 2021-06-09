@@ -4,10 +4,9 @@
 
 #### I am a self-taught developer.
 
-- 🌐 Working on the website for **[discord.gg/devs](https://discord.gg/devs)**
 - 📞 You can contact me through **[Discord](https://discord.com/users/728512329888825396)** (**`Angelo II#0007`**)
-- 💼 Most famous projects: **[RAGE bot](https://bit.ly/RAGE-BOT)**, **[BlueApi.js](https://npmjs.com/blueapi.js)**, **[sourcebin_js](https://npmjs.com/sourcebin_js)** & **[Meers](https://meers.xyz)**
-- 🔗 Check out my website: **[AngeDev.tk](https://angdeb.tk)**
+- 💼 Most famous projects: **[discord-buttons](https://npmjs.com/discord-buttons)**, **[discord-reply](https://npmjs.com/discord-reply)**, **[sourcebin_js](https://npmjs.com/sourcebin_js)**
+- 🔗 Check out my website: **I am working on this!**
 
 #### Languages and Tools I can work with:
 <a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
