@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
 <a><img src="https://img.shields.io/badge/-React-grey?logo=React&logoColor=#61dbfb"></a>
+<a><img src="https://img.shields.io/badge/-Vue-35495e?logo=Vue&logoColor=#42b883"></a>
 <img src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white">
