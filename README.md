@@ -8,7 +8,7 @@
 - 💼 Most famous projects: **[discord-buttons](https://npmjs.com/discord-buttons)**, **[discord-reply](https://npmjs.com/discord-reply)**, **[sourcebin_js](https://npmjs.com/sourcebin_js)**
 - 🔗 Check out my website: **I am working on this!**
 
-#### Languages and Tools I can work with:
+#### Languages and Tools I can work with (outdated):
 <a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
