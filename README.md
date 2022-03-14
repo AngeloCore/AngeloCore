@@ -4,7 +4,7 @@
 
 #### I am a self-taught developer.
 
-- 📞 You can contact me through **[Discord](https://discord.com/users/728512329888825396)** (**`Angelo II#0007`**)
+- 📞 You can contact me through **[Discord](https://discord.com/users/728512329888825396)** (**`Angelo II#1003`**)
 - 💼 Most famous projects: **[discord-buttons](https://npmjs.com/discord-buttons)**, **[discord-reply](https://npmjs.com/discord-reply)**, **[sourcebin_js](https://npmjs.com/sourcebin_js)**
 - 🔗 Check out my website: **I am working on this!**
 
